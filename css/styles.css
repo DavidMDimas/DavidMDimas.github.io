@@ -69,15 +69,18 @@ pre {
     text-align: center;
 }
 
-#section2 {
-    padding-top: 50px;
-    height: 510px;
-    color: black;
-    background-color: #fff;
-}
-
 #section1 {
     padding-top: 10px;
     height: 500px;
-    color: #fff;
+}
+
+#section2 {
+    padding-top: 250px;
+    height: 530px;
+
+}
+
+#section3 {
+
+    height: 850px;
 }
